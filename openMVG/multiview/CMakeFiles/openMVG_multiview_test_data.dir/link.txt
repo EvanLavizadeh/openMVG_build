@@ -1,0 +1,2 @@
+/bin/ar qc ../../Linux-x86_64-RELEASE/libopenMVG_multiview_test_data.a CMakeFiles/openMVG_multiview_test_data.dir/test_data_sets.cpp.o
+/bin/ranlib ../../Linux-x86_64-RELEASE/libopenMVG_multiview_test_data.a

@@ -1,0 +1,2 @@
+/bin/ar qc ../../Linux-x86_64-RELEASE/libopenMVG_exif.a CMakeFiles/openMVG_exif.dir/exif_IO_EasyExif.cpp.o
+/bin/ranlib ../../Linux-x86_64-RELEASE/libopenMVG_exif.a

@@ -1,0 +1,2 @@
+/bin/ar qc ../../Linux-x86_64-RELEASE/libopenMVG_numeric.a CMakeFiles/openMVG_numeric.dir/nullspace.cpp.o CMakeFiles/openMVG_numeric.dir/numeric.cpp.o
+/bin/ranlib ../../Linux-x86_64-RELEASE/libopenMVG_numeric.a

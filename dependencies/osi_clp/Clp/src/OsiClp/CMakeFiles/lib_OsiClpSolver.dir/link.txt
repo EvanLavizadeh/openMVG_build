@@ -1,0 +1,2 @@
+/bin/ar qc ../../../../../Linux-x86_64-RELEASE/liblib_OsiClpSolver.a CMakeFiles/lib_OsiClpSolver.dir/OsiClpSolverInterface.cpp.o
+/bin/ranlib ../../../../../Linux-x86_64-RELEASE/liblib_OsiClpSolver.a

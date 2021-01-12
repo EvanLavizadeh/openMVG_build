@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/evan/openMVG/src/openMVG/exif/exif_IO.hpp
+string
+-
+
+/home/evan/openMVG/src/openMVG/exif/exif_IO_EasyExif.hpp
+memory
+-
+string
+-
+openMVG/exif/exif_IO.hpp
+/home/evan/openMVG/src/openMVG/exif/openMVG/exif/exif_IO.hpp
+
+/home/evan/openMVG/src/openMVG_Samples/exif_Parsing/exifParsing.cpp
+openMVG/exif/exif_IO_EasyExif.hpp
+/home/evan/openMVG/src/openMVG_Samples/exif_Parsing/openMVG/exif/exif_IO_EasyExif.hpp
+third_party/cmdLine/cmdLine.h
+/home/evan/openMVG/src/openMVG_Samples/exif_Parsing/third_party/cmdLine/cmdLine.h
+memory
+-
+
+/home/evan/openMVG/src/third_party/cmdLine/cmdLine.h
+vector
+-
+algorithm
+-
+iostream
+-
+string
+-
+sstream
+-
+cassert
+-
+
